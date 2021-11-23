@@ -1,0 +1,9 @@
+torch
+nltk_utils
+numpy
+random
+json
+flask
+werkzeug
+model
+chat
